@@ -1,0 +1,5 @@
+
+            Customer: Hamza
+            Invoice ID: 5bc3a115-8c12-4f1f-9383-46a358276c9f
+            Total Bill: 130154.0
+            ------------------------
